@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> CS student exploring low-level security and malware. The best way for me to learn is by writing CTFs. This is where I share my CTFs and challenges about topics I learn and find interesting: [MAS on Crackmes.one](https://crackmes.one/user/MAS) 
 {: .prompt-tip }
